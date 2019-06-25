@@ -1,0 +1,16 @@
+# Directories
+_site/
+vendor/
+
+# file extensions
+*.swp
+
+# individual files
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile.lock
+node_modules
+package.json
